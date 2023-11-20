@@ -1,0 +1,13 @@
+{
+  "name": "desarrollomultimedia",
+  "version": "1.0.0",
+  "description": "Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js, del canal de YouTube [Ringa Tech](https://youtube.com/RingaTech)",
+  "main": "drawing.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
